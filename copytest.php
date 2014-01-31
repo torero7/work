@@ -2,7 +2,7 @@
 //version 0.2
 $source_dir="\\\\10.1.227.130\\avaya_log\\";
 //dest month,year,dir
-$dest_month = "12";
+$dest_month = "06";
 $dest_year = "2013";
 $dest_dir= "C:\\wamp\\www\\smdr\\".$dest_year."\\";
 
